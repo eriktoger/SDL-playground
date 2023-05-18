@@ -1,0 +1,1 @@
+# The goal is to to learn more about SDL
